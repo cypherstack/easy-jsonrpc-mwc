@@ -1,5 +1,5 @@
 [package]
-name = "cs_easy-jsonrpc-proc-macro-mwc"
+name = "easy-jsonrpc-proc-macro-mwc"
 description = """
 Procedural macro portion of easy-jsonrpc. Don't use this crate directly. Use easy-jsonrpc instead.
 """
